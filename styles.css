@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	width:50%;
+	height:50%;
+	border:2px solid grey;
+}
+h1{
+	color:blueviolet;
+	text-align:center;
+}
